@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ukk_toko_kosmetik", "ukk_toko_kosmetik\ukk_toko_kosmetik.csproj", "{AC775407-4DD3-42D1-BA06-8F8A620D975C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC775407-4DD3-42D1-BA06-8F8A620D975C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC775407-4DD3-42D1-BA06-8F8A620D975C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC775407-4DD3-42D1-BA06-8F8A620D975C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC775407-4DD3-42D1-BA06-8F8A620D975C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9140B59-DF0D-4E5A-B40B-57665E8C9CD7}
+	EndGlobalSection
+EndGlobal
